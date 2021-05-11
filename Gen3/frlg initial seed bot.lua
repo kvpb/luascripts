@@ -7,6 +7,23 @@
 
 -- Please enter the seed from IVs to PID in the form 0x******** where the stars are the seed     
 targetSeed = 0x4392600E  
+--targetSeed = 0x0B84D63F   -- 7EEF Pikachu
+--targetSeed = 0x88E476FF   -- 8539 Charmander
+--targetSeed = 0x3ED6AB30   -- 9981 Lapras
+--targetSeed = 0xE93BC563   -- 792C Snorlax
+--targetSeed = 0x2EE19A4C   -- 25F9 Suicune
+--targetSeed = 0xD95A941A   -- 16B3 Larvitar
+--targetSeed = 0x77D59494   -- BDD1 Ditto
+--targetSeed = 0x9729CA23   -- 1307 Haunter
+--targetSeed = 0x38104657   -- 2D8B Scyther
+--targetSeed = 0xB3B5437F   -- 13A7 Scyther
+--targetSeed = 0xF8124430   -- 8B3B Marowak
+--targetSeed = 0xE5E702FF   -- 5763 Dratini
+--targetSeed = 0xB3B5437F   -- 13A7 Dragonair
+--targetSeed = 0x4F6935C6   -- B284 Zapdos
+--targetSeed = 0xB853AED6   -- 9E28 Zapdos
+--targetSeed = 0xE5E702FF   -- 5763 Heracross
+--targetSeed = 0xEF7D1D0B   -- 6677 Qwilfish
 
 -- Max amount of frames you are willing to wait
 maxFrame = 5000000        
